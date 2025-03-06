@@ -5,9 +5,9 @@ Brief description of the changes.
 Fixes # (issue)
 
 ## 🔍 Changes
-- [x] Feature 1
-- [x] Fix 2
-- [x] Improvement 3
+- [ ] Feature 1
+- [ ] Fix 2
+- [ ] Improvement 3
 
 ## 🚀 Steps to Test
 1. Clone the repo
