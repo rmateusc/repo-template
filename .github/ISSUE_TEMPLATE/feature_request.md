@@ -1,7 +1,7 @@
 ---
 name: "✨ Feature Request"
 about: "Suggest a new feature or improvement"
-title: "[Feature] <Title>"
+title: "[`Feature`] <Title>"
 labels: enhancement
 assignees: ""
 ---

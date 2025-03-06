@@ -1,7 +1,7 @@
 ---
 name: "🐞 Bug Report"
 about: "Report a bug to improve the project"
-title: "[Bug] <Title>"
+title: "[`Bug`] <Title>"
 labels: bug
 assignees: ""
 ---
